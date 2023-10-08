@@ -1,6 +1,6 @@
 import { Footer } from '@/componentes/Footer'
 import { Sidebar } from '@/componentes/Sibebar'
-import { Home as HomeIcon, Search, Library, ChevronLeft, ChevronRight, Play, Shuffle, SkipBack, SkipForward, Repeat, Mic2, LayoutList, Laptop, Volume, Maximize2 } from 'lucide-react'
+import { Home as ChevronLeft, ChevronRight, Play } from 'lucide-react'
 
 export default function Home() {
   return (
