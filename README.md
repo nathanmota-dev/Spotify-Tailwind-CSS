@@ -1,9 +1,12 @@
-<<<<<<< HEAD
 # Interface do Spotify com Next.js e Tailwind CSS
 
 Este é um projeto de interface do Spotify criado usando [Next.js](https://nextjs.org/) e estilizado com [Tailwind CSS](https://tailwindcss.com/).
 
 ![Interface do Spotify](/img1.JPG)
+
+## Referência
+
+Esse Projeto foi minha iniciação no TailwindCSS que é um framework que vem sido muito utilizado em projetos React e virou a estilização padrão de projetos Next.Js. A referência para realizar esse Projeto foi pelo Diego da Rocketseat.
 
 ## Iniciando
 
